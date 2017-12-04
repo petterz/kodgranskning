@@ -1,0 +1,2 @@
+tree.o: tree.c tree.h
+	gcc -Wall tree.c -c -o tree

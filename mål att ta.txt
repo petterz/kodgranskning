@@ -1,0 +1,15 @@
+Mål att ta:
+H19 - Skillnaden mellan identitet och ekvivalens
+
+Enkla mål att ta:
+C7  - Planering och uppföljning 			            // ??
+G15 - Aliasering 					                        // Oklart, ta reda på mer
+I22 - Defensiv programmering 				              // Gör en funktion som fullföljer checklistan av defensiv programmering
+J27 - Manuell minneshantering 				            // Läs på om valgrind, skapa ett program som allokerar och frigör minne
+K30 - Gränssnitt mellan moduler 			            // Modulariseing, enklare att uppdatera etc.
+M39 - Pekare till pekare 				                  // Kom på en funktion där man kan använda pekare till pekare
+P45 - Informell kodgranskning 				            // Följ kodgranskningsprotokollet,  lär sig Github issue tracker
+R52 - Debuggning med GDB 				                  // Få ett seg fault, spara koden och dokumentera steg för steg hur man använder GDB för att debugga
+T56 - Emacs för programmering 				            // Läs på artiklarna som finns länkade
+X60 - Presentation 					// 
+U57 - Byggverktyget Make                          // Läs på lathunden och använd make
